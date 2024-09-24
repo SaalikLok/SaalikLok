@@ -3,12 +3,13 @@
 ### The Craft
 
 - 💎 I'm a Rubyist, although I love dabbling, and lean on JavaScript often
-- 🛤️ I mostly build for the web with Ruby on Rails
+- ⚙️ Been enjoying using Svelte for frontend web projects
+- 🛤️ Building for the web with Ruby on Rails
 
 I'm interested in exploring new languages, learning more about devops, and understanding new programming paradigms.
 
 ### What I'm Up To
 
-- I keep my website fairly up-to-date with my activity: [saaliklok.com](https://saaliklok.com).
+- Running [LokBros Studio](https://lokbros.com) with my brothers.
 - I publish essays on my blog, [The Spoonful](https://www.thespoonful.blog).
-- Want to get in touch? I'm fairly active on [Twitter](https://twitter.com/saaliklok).
+- I keep my website fairly up-to-date with my activity: [saaliklok.com](https://saaliklok.com).
